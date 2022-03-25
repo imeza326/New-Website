@@ -1,0 +1,59 @@
+/*Center the contents*/
+.center{
+  text-align:center;
+}
+
+/*Color header, font, and space out letter*/
+header{
+  font-family: jazz-let;
+  background-color: lightcoral;
+  color: black;
+  letter-spacing: 2px;
+  padding:10px;
+  font-size: 25px;
+}
+
+header h3{
+  font-style: italic;
+  text-shadow:black;
+}
+
+body{
+  background-color: #f4ebd9;
+}
+
+footer{
+  background-color: black;
+  color:white;
+  padding: 10px;
+}
+
+/*Create a line break in a diamond shape*/
+hr{
+  width: 30px;
+  height: 30px;
+  border: none;
+  background: #1b2cc1;
+  color: #1b2cc1;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  transform: rotate(45deg);
+}
+
+/*Set what happens to links */
+a{
+  link: blue;
+  visited:purple;
+  hover:white;
+  active: mediumvioletred;
+}
+
+section h3{
+  font-size: 30px;
+}
+
+/*Set the page to not stretch out text*/
+.wrapper {
+  width: 300px;
+  margin: auto;
+}
