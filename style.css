@@ -1,0 +1,48 @@
+.center{
+  text-align:center;
+}
+
+header{
+  font-family: jazz-let;
+  background-color: lightcoral;
+  color: white;
+  letter-spacing: 2px;
+  padding:10px;
+}
+
+header h3{
+  font-style: italic;
+  text-shadow:black;
+}
+
+body{
+  background-color: #f4ebd9;
+}
+
+footer{
+  background-color: black;
+  color:white;
+  padding: 10px;
+}
+
+hr{
+  width: 30px;
+  height: 30px;
+  border: none;
+  background: #1b2cc1;
+  color: #1b2cc1;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  transform: rotate(45deg);
+}
+
+a{
+  link: blue;
+  visited:purple;
+  hover:white;
+  active: mediumvioletred;
+}
+
+section h3{
+  font-size: 30px;
+}
